@@ -1,0 +1,348 @@
+,zipcode,1st Most Common Venue,2nd Most Common Venue,3rd Most Common Venue,4th Most Common Venue,5th Most Common Venue,6th Most Common Venue,7th Most Common Venue,8th Most Common Venue,9th Most Common Venue,10th Most Common Venue
+0,80002,Park,Fast Food Restaurant,Asian Restaurant,Mexican Restaurant,Pizza Place,Italian Restaurant,Sandwich Place,Big Box Store,Burger Joint,Discount Store
+1,80003,Park,Fast Food Restaurant,Ramen Restaurant,Home Service,Baseball Field,Bank,Chinese Restaurant,Coffee Shop,Big Box Store,Mobile Phone Shop
+2,80004,Frozen Yogurt Shop,Laundromat,Bakery,Mexican Restaurant,Gym,Chinese Restaurant,Fast Food Restaurant,Tennis Court,Grocery Store,Pharmacy
+3,80005,Sandwich Place,Construction & Landscaping,Baseball Field,Pet Service,Fast Food Restaurant,Gym,Pizza Place,Liquor Store,Bank,Convenience Store
+4,80007,Park,Bar,Museum,Event Space,Gym,Lake,Golf Course,Business Service,Zoo,Fondue Restaurant
+5,80010,Mexican Restaurant,Fast Food Restaurant,Chinese Restaurant,Discount Store,Convenience Store,Theater,Sandwich Place,Clothing Store,Marijuana Dispensary,Bakery
+6,80011,Fast Food Restaurant,Convenience Store,Mexican Restaurant,Chinese Restaurant,Breakfast Spot,Sandwich Place,Gas Station,Fried Chicken Joint,Shipping Store,Grocery Store
+7,80012,Mexican Restaurant,Chinese Restaurant,Pizza Place,Thai Restaurant,Hotel,Breakfast Spot,Liquor Store,Gym / Fitness Center,Mobile Phone Shop,Fast Food Restaurant
+8,80013,Sandwich Place,Coffee Shop,Convenience Store,Fast Food Restaurant,Dessert Shop,Locksmith,Grocery Store,Salon / Barbershop,Park,Pizza Place
+9,80014,Hotel,Rental Car Location,Sandwich Place,Bar,Coffee Shop,Greek Restaurant,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant
+10,80015,Park,Coffee Shop,Convenience Store,Bar,Pizza Place,Baseball Field,Liquor Store,Pool,Grocery Store,Fast Food Restaurant
+11,80016,Coffee Shop,Pizza Place,Salon / Barbershop,Sandwich Place,Pharmacy,Park,Mexican Restaurant,Arts & Crafts Store,Grocery Store,Convenience Store
+12,80017,Park,Convenience Store,Italian Restaurant,Pizza Place,Grocery Store,Bank,Shipping Store,Mexican Restaurant,Auto Garage,Liquor Store
+13,80018,Golf Course,Intersection,Convenience Store,Home Service,Fondue Restaurant,Farm,Farmers Market,Fast Food Restaurant,Film Studio,Financial or Legal Service
+14,80019,Sandwich Place,Intersection,Zoo,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant,Film Studio,Financial or Legal Service,Fishing Spot
+15,80020,Park,Golf Course,Soccer Field,Mexican Restaurant,Gym / Fitness Center,Liquor Store,Burrito Place,Dog Run,Fast Food Restaurant,Film Studio
+16,80021,Park,Trail,Convenience Store,Fast Food Restaurant,Shipping Store,Sandwich Place,Pizza Place,Chinese Restaurant,Bank,Gym / Fitness Center
+17,80022,Mexican Restaurant,Convenience Store,Gas Station,Discount Store,Sandwich Place,Donut Shop,Theme Park,Baseball Field,Park,Bakery
+18,80026,Coffee Shop,Sandwich Place,Pizza Place,Mexican Restaurant,Salon / Barbershop,Grocery Store,Fast Food Restaurant,Farmers Market,Convenience Store,Chinese Restaurant
+19,80027,Sandwich Place,Italian Restaurant,Coffee Shop,Liquor Store,Mexican Restaurant,Hotel,Indian Restaurant,Japanese Restaurant,Multiplex,Noodle House
+20,80030,ATM,Donut Shop,Pet Store,Convenience Store,Clothing Store,Farmers Market,Fast Food Restaurant,Film Studio,Financial or Legal Service,Fishing Spot
+21,80031,Gym,Golf Course,Steakhouse,Fast Food Restaurant,Playground,Convenience Store,Coffee Shop,Shipping Store,Mexican Restaurant,Salon / Barbershop
+22,80033,Pool,Gas Station,Convenience Store,Gym,Gym / Fitness Center,Fast Food Restaurant,Baseball Field,Bar,Thrift / Vintage Store,Garden Center
+23,80045,Brewery,Pharmacy,Café,Coffee Shop,American Restaurant,Zoo,Fondue Restaurant,Fast Food Restaurant,Film Studio,Financial or Legal Service
+24,80102,Fast Food Restaurant,Sandwich Place,Business Service,Rental Car Location,Diner,Discount Store,Grocery Store,Liquor Store,Truck Stop,Coffee Shop
+25,80103,Pharmacy,Burger Joint,Convenience Store,Basketball Court,Home Service,Laundromat,Zoo,Flower Shop,Farmers Market,Fast Food Restaurant
+26,80104,American Restaurant,Coffee Shop,Pizza Place,Sandwich Place,Fast Food Restaurant,Salon / Barbershop,Spa,Antique Shop,Burger Joint,Grocery Store
+27,80105,Rest Area,Gas Station,Convenience Store,Pizza Place,Zoo,Fondue Restaurant,Farm,Farmers Market,Fast Food Restaurant,Film Studio
+28,80106,Campground,Food,Construction & Landscaping,Home Service,Fondue Restaurant,Farm,Farmers Market,Fast Food Restaurant,Film Studio,Financial or Legal Service
+29,80107,Construction & Landscaping,Fast Food Restaurant,Business Service,Sandwich Place,Chinese Restaurant,Grocery Store,Pizza Place,Coffee Shop,Food & Drink Shop,Farm
+30,80108,Pizza Place,Coffee Shop,Golf Course,Salon / Barbershop,Gas Station,Italian Restaurant,Fast Food Restaurant,Grocery Store,Mexican Restaurant,Snack Place
+31,80109,Golf Course,Fast Food Restaurant,Trail,Construction & Landscaping,Pool,Cocktail Bar,Clothing Store,Photography Studio,Home Service,Playground
+32,80110,Mexican Restaurant,Pizza Place,Video Store,Pet Store,Sandwich Place,Breakfast Spot,Gym / Fitness Center,Gas Station,Shipping Store,Convenience Store
+33,80111,Hotel,Sandwich Place,Park,Coffee Shop,Bar,BBQ Joint,Bagel Shop,Liquor Store,Food Truck,Lounge
+34,80112,Hotel,Furniture / Home Store,Breakfast Spot,Mexican Restaurant,Coffee Shop,Pizza Place,Deli / Bodega,Seafood Restaurant,Shipping Store,Fast Food Restaurant
+35,80116,Trail,State / Provincial Park,Farm,Fondue Restaurant,Falafel Restaurant,Farmers Market,Fast Food Restaurant,Film Studio,Financial or Legal Service,Fishing Spot
+36,80117,Breakfast Spot,Bar,Pizza Place,American Restaurant,Food & Drink Shop,Fast Food Restaurant,Film Studio,Financial or Legal Service,Fishing Spot,Fishing Store
+37,80118,Park,Bar,Event Space,Liquor Store,Pizza Place,Arts & Crafts Store,Zoo,Farm,Fast Food Restaurant,Film Studio
+38,80120,Park,Food,Construction & Landscaping,History Museum,Garden,French Restaurant,Forest,Farm,Farmers Market,Fast Food Restaurant
+39,80121,Clothing Store,Park,Italian Restaurant,Furniture / Home Store,Bakery,Gym,Medical Supply Store,Grocery Store,Greek Restaurant,Mobile Phone Shop
+40,80122,Burger Joint,Bank,Snack Place,Coffee Shop,Sandwich Place,Mexican Restaurant,Park,Gas Station,Grocery Store,Bakery
+41,80123,Furniture / Home Store,Park,Breakfast Spot,Liquor Store,Baseball Field,Shoe Store,Seafood Restaurant,Hardware Store,Burger Joint,Mexican Restaurant
+42,80124,Fast Food Restaurant,Trail,Home Service,Golf Course,Video Store,Playground,Food,Financial or Legal Service,Sandwich Place,Dentist's Office
+43,80125,Trail,Pizza Place,Skate Park,Coffee Shop,Sandwich Place,State / Provincial Park,Park,Gym,Fast Food Restaurant,Asian Restaurant
+44,80126,Performing Arts Venue,Pharmacy,Mattress Store,Video Game Store,Clothing Store,Food,Hobby Shop,Construction & Landscaping,Spa,Park
+45,80127,Pizza Place,Coffee Shop,Fast Food Restaurant,Pharmacy,Mexican Restaurant,Bar,Salon / Barbershop,Grocery Store,Park,Sushi Restaurant
+46,80128,Italian Restaurant,Pharmacy,Fast Food Restaurant,Grocery Store,Baseball Field,Park,Coffee Shop,Video Store,New American Restaurant,Mexican Restaurant
+47,80129,Paper / Office Supplies Store,Hardware Store,Sandwich Place,Salon / Barbershop,Asian Restaurant,Fast Food Restaurant,Gym,Dry Cleaner,Liquor Store,Mexican Restaurant
+48,80130,Furniture / Home Store,Soccer Field,Mexican Restaurant,Health & Beauty Service,Pharmacy,Photography Studio,Liquor Store,Historic Site,Sandwich Place,Park
+49,80132,Pizza Place,Sandwich Place,Fast Food Restaurant,Mexican Restaurant,Bar,Coffee Shop,American Restaurant,Ice Cream Shop,Grocery Store,Thrift / Vintage Store
+50,80133,Trail,Italian Restaurant,American Restaurant,Café,Bar,Lake,Pizza Place,Hotel,Coffee Shop,Ice Cream Shop
+51,80134,Fast Food Restaurant,Breakfast Spot,Pizza Place,Coffee Shop,Gym,Bakery,Brewery,Mexican Restaurant,Sandwich Place,Asian Restaurant
+52,80135,Bar,Locksmith,Scenic Lookout,Outdoor Sculpture,Zoo,Flower Shop,Farmers Market,Fast Food Restaurant,Film Studio,Financial or Legal Service
+53,80136,Sandwich Place,Construction & Landscaping,Park,Mexican Restaurant,Campground,Liquor Store,Farm,Food Truck,Fishing Spot,Farmers Market
+54,80138,Construction & Landscaping,Business Service,Trail,Pool,Video Store,Tennis Stadium,Golf Course,Playground,Trade School,Fast Food Restaurant
+55,80202,Mexican Restaurant,American Restaurant,Cocktail Bar,Steakhouse,Hotel,Bar,Restaurant,Pizza Place,Coffee Shop,Plaza
+56,80203,Coffee Shop,Bar,Pizza Place,Ski Shop,Park,Gym / Fitness Center,Mexican Restaurant,Gym,Bed & Breakfast,Marijuana Dispensary
+57,80204,Bar,Food Truck,Mexican Restaurant,Sports Bar,Hot Dog Joint,Theater,Gym,Grocery Store,Event Space,Marijuana Dispensary
+58,80205,Grocery Store,Liquor Store,History Museum,Dog Run,Mexican Restaurant,Baseball Field,Bar,Park,French Restaurant,Café
+59,80206,Italian Restaurant,Dry Cleaner,Park,Chinese Restaurant,Gift Shop,American Restaurant,Coffee Shop,Grocery Store,Greek Restaurant,Fast Food Restaurant
+60,80207,Park,Business Service,Mexican Restaurant,Gym / Fitness Center,Lounge,Gym,Liquor Store,Athletics & Sports,Arts & Crafts Store,Bistro
+61,80209,Boutique,Yoga Studio,Coffee Shop,American Restaurant,Italian Restaurant,Restaurant,Spa,Burger Joint,Bike Trail,Flower Shop
+62,80210,Coffee Shop,Sandwich Place,Pizza Place,Bar,Breakfast Spot,Bank,Café,Mexican Restaurant,Mediterranean Restaurant,Japanese Restaurant
+63,80211,Mexican Restaurant,Pizza Place,Italian Restaurant,Burger Joint,Convenience Store,Breakfast Spot,Restaurant,Trade School,Coffee Shop,Bakery
+64,80212,Coffee Shop,Pizza Place,Breakfast Spot,Sandwich Place,Liquor Store,Mexican Restaurant,Brewery,Music Venue,Bar,American Restaurant
+65,80214,Marijuana Dispensary,Mexican Restaurant,Pizza Place,Mobile Phone Shop,Fast Food Restaurant,Salon / Barbershop,Gym / Fitness Center,Grocery Store,Bank,Coffee Shop
+66,80215,Coffee Shop,Grocery Store,Sandwich Place,Bakery,Bank,Fast Food Restaurant,Thai Restaurant,Gym,Italian Restaurant,Astrologer
+67,80216,Marijuana Dispensary,Music Venue,Pharmacy,Farm,Park,Steakhouse,Thrift / Vintage Store,Moving Target,Mexican Restaurant,Intersection
+68,80218,Park,Liquor Store,Coffee Shop,Track,Video Store,Bar,Bike Rental / Bike Share,Sandwich Place,Salon / Barbershop,Asian Restaurant
+69,80219,Vietnamese Restaurant,Grocery Store,Thai Restaurant,Chinese Restaurant,ATM,Hobby Shop,Museum,Supermarket,Taco Place,Café
+70,80220,Coffee Shop,Liquor Store,Marijuana Dispensary,ATM,Fast Food Restaurant,Dry Cleaner,Hardware Store,Convenience Store,Park,Pharmacy
+71,80221,Casino,Department Store,Mexican Restaurant,Home Service,Pizza Place,Brewery,Fried Chicken Joint,Storage Facility,Business Service,Taco Place
+72,80222,Concert Hall,Burger Joint,Pub,Video Store,Coffee Shop,Zoo,Fondue Restaurant,Farm,Farmers Market,Fast Food Restaurant
+73,80223,Marijuana Dispensary,Convenience Store,Breakfast Spot,Home Service,Brewery,Garden Center,Gas Station,Bookstore,Miscellaneous Shop,Gym
+74,80224,Park,Gym / Fitness Center,Rugby Pitch,Zoo,Flower Shop,Farm,Farmers Market,Fast Food Restaurant,Film Studio,Financial or Legal Service
+75,80226,Clothing Store,Fast Food Restaurant,Pizza Place,Coffee Shop,Tex-Mex Restaurant,Sandwich Place,Video Game Store,Mexican Restaurant,Cosmetics Shop,Grocery Store
+76,80227,Food,Park,Pizza Place,Convenience Store,Vegetarian / Vegan Restaurant,Carpet Store,Furniture / Home Store,Liquor Store,Coffee Shop,Video Store
+77,80228,Coffee Shop,Trail,Fast Food Restaurant,Gym,Pizza Place,Italian Restaurant,Bank,Baseball Field,Mexican Restaurant,Liquor Store
+78,80229,Convenience Store,Locksmith,Liquor Store,Pizza Place,Ice Cream Shop,Farmers Market,Trail,Herbs & Spices Store,Park,Business Service
+79,80230,Italian Restaurant,Ice Cream Shop,Mexican Restaurant,Health & Beauty Service,Liquor Store,Bagel Shop,Gym / Fitness Center,Theater,Gym,Grocery Store
+80,80231,Grocery Store,Halal Restaurant,Mexican Restaurant,Thai Restaurant,Pizza Place,Light Rail Station,Food,Medical Center,Zoo,Farmers Market
+81,80232,Breakfast Spot,Martial Arts Dojo,Shop & Service,Thrift / Vintage Store,Bar,Falafel Restaurant,Farmers Market,Fast Food Restaurant,Film Studio,Financial or Legal Service
+82,80233,Gym,Brewery,Bakery,Park,Liquor Store,Pizza Place,Italian Restaurant,Arts & Crafts Store,Gym / Fitness Center,Bar
+83,80234,Sandwich Place,Massage Studio,Italian Restaurant,Salad Place,Fast Food Restaurant,Event Space,Pizza Place,Middle Eastern Restaurant,Park,Hookah Bar
+84,80235,Hotel,Mexican Restaurant,American Restaurant,Donut Shop,Sushi Restaurant,Bar,Asian Restaurant,Motel,Golf Course,Fast Food Restaurant
+85,80236,Park,Athletics & Sports,Bar,Trail,Zoo,Flower Shop,Farm,Farmers Market,Fast Food Restaurant,Film Studio
+86,80237,Martial Arts Dojo,Construction & Landscaping,Gym,Pool,Zoo,Flower Shop,Farm,Farmers Market,Fast Food Restaurant,Film Studio
+87,80238,Restaurant,Zoo,Fondue Restaurant,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant,Film Studio,Financial or Legal Service,Fishing Spot
+88,80239,Baseball Field,Park,Playground,Home Service,Zoo,Flea Market,Farm,Farmers Market,Fast Food Restaurant,Film Studio
+89,80241,Park,Trail,Lake,Bakery,Chinese Restaurant,Mexican Restaurant,Auto Garage,Liquor Store,Pizza Place,Home Service
+90,80246,Park,Pet Store,Gym,Marijuana Dispensary,Mexican Restaurant,Tanning Salon,Thrift / Vintage Store,Casino,Spa,Gym / Fitness Center
+91,80247,Pool,Bus Stop,Restaurant,Gym,Locksmith,Beach,Korean Restaurant,Farmers Market,Fast Food Restaurant,Film Studio
+92,80249,Park,Sandwich Place,Pizza Place,Asian Restaurant,Golf Course,American Restaurant,Liquor Store,Recreation Center,Film Studio,Flea Market
+93,80260,Mexican Restaurant,Construction & Landscaping,Pizza Place,Print Shop,Home Service,Food,Discount Store,Convenience Store,Diner,Wine Bar
+94,80301,Baseball Field,Food Truck,Dog Run,Mexican Restaurant,Gym / Fitness Center,Trail,Tea Room,Café,Coffee Shop,Motel
+95,80302,Trail,American Restaurant,Ice Cream Shop,Sandwich Place,Mexican Restaurant,New American Restaurant,Park,Pizza Place,Coffee Shop,Italian Restaurant
+96,80303,Sporting Goods Shop,Sandwich Place,Playground,Indian Restaurant,Trail,Ice Cream Shop,Gym / Fitness Center,Liquor Store,Bus Line,Bus Station
+97,80304,Park,Italian Restaurant,Diner,Theater,Breakfast Spot,Café,Shipping Store,Construction & Landscaping,Convenience Store,Restaurant
+98,80305,Sporting Goods Shop,Liquor Store,Pizza Place,Park,Lake,Bus Stop,Brewery,Bakery,Bank,Locksmith
+99,80401,Coffee Shop,Mexican Restaurant,Clothing Store,Trail,Golf Course,Grocery Store,Sushi Restaurant,Pizza Place,Salon / Barbershop,Juice Bar
+100,80403,Restaurant,Campground,Park,Zoo,Flower Shop,Farm,Farmers Market,Fast Food Restaurant,Film Studio,Financial or Legal Service
+101,80420,Garden Center,Bar,Convenience Store,Coffee Shop,Food,Farmers Market,Fast Food Restaurant,Film Studio,Financial or Legal Service,Fishing Spot
+102,80421,Campground,Food,Gas Station,Marijuana Dispensary,Disc Golf,Construction & Landscaping,Outdoors & Recreation,Pizza Place,Video Store,Flea Market
+103,80422,Casino,Restaurant,American Restaurant,Coffee Shop,Café,BBQ Joint,Steakhouse,Nightclub,Opera House,Campground
+104,80424,Ski Area,American Restaurant,Hotel,Coffee Shop,Bar,Pizza Place,Ski Lodge,Restaurant,Ski Chairlift,Beer Garden
+105,80425,Trail,Mountain,Fondue Restaurant,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant,Film Studio,Financial or Legal Service,Fishing Spot
+106,80428,Trail,Harbor / Marina,Campground,Café,American Restaurant,Lake,Fondue Restaurant,Farmers Market,Fast Food Restaurant,Film Studio
+107,80432,Restaurant,Campground,IT Services,Gun Shop,Zoo,Flower Shop,Farm,Farmers Market,Fast Food Restaurant,Film Studio
+108,80433,Coffee Shop,Mexican Restaurant,Trail,Italian Restaurant,Juice Bar,Sandwich Place,Salon / Barbershop,Restaurant,Pizza Place,Paper / Office Supplies Store
+109,80435,Ski Area,Hotel,Pizza Place,Coffee Shop,American Restaurant,Resort,Bar,Dessert Shop,Golf Course,Liquor Store
+110,80438,Breakfast Spot,Burger Joint,Business Service,Coffee Shop,Ski Trail,Marijuana Dispensary,American Restaurant,Forest,Convenience Store,BBQ Joint
+111,80439,American Restaurant,Coffee Shop,Pizza Place,Park,Bar,Breakfast Spot,Fast Food Restaurant,Ice Cream Shop,Indie Theater,Liquor Store
+112,80440,Restaurant,Sandwich Place,BBQ Joint,Hotel,Gas Station,Café,Grocery Store,Bed & Breakfast,Coffee Shop,History Museum
+113,80442,Ski Area,Mexican Restaurant,Liquor Store,Sporting Goods Shop,Burger Joint,Department Store,Coffee Shop,Soccer Field,Gas Station,Motel
+114,80443,American Restaurant,Coffee Shop,Bar,Ski Chairlift,Board Shop,Theme Park Ride / Attraction,Campground,Ski Area,Trail,Ski Chalet
+115,80444,Train Station,Trail,Coffee Shop,Bar,Marijuana Dispensary,Café,Scenic Lookout,Platform,Food Service,Food Court
+116,80446,Café,Gas Station,Lake,Italian Restaurant,Train Station,American Restaurant,Asian Restaurant,Campground,Construction & Landscaping,Convenience Store
+117,80448,Trail,Motel,Campground,Scenic Lookout,Bed & Breakfast,BBQ Joint,Forest,Frozen Yogurt Shop,Farmers Market,Fast Food Restaurant
+118,80452,Brewery,Coffee Shop,Gas Station,Trail,Cosmetics Shop,Theme Park,Bar,Mexican Restaurant,Steakhouse,Rafting
+119,80459,Campground,Farm,Home Service,Mountain,Fondue Restaurant,Farmers Market,Fast Food Restaurant,Film Studio,Financial or Legal Service,Fishing Spot
+120,80461,Gas Station,Mexican Restaurant,Hotel,American Restaurant,Trail,Pizza Place,Discount Store,Scenic Lookout,Sandwich Place,Motel
+121,80465,Trail,Construction & Landscaping,Intersection,Sandwich Place,Steakhouse,Mountain,Golf Course,Park,Bar,Bakery
+122,80466,Coffee Shop,Brewery,Pizza Place,Park,Supermarket,Bakery,Ice Cream Shop,Trail,Thai Restaurant,Lake
+123,80467,Business Service,Market,Bar,Harbor / Marina,Café,Flower Shop,Fondue Restaurant,Fast Food Restaurant,Film Studio,Financial or Legal Service
+124,80469,Flower Shop,Zoo,Food,Farm,Farmers Market,Fast Food Restaurant,Film Studio,Financial or Legal Service,Fishing Spot,Fishing Store
+125,80470,Construction & Landscaping,Gas Station,Gym,Trail,Park,Lake,Hotel,American Restaurant,Campground,Convenience Store
+126,80478,Trail,American Restaurant,Mountain,Soccer Field,Marijuana Dispensary,Liquor Store,Stables,Diner,Disc Golf,Fast Food Restaurant
+127,80480,Trail,Gas Station,Café,Pizza Place,American Restaurant,Fishing Store,Hotel,Grocery Store,Flea Market,Farm
+128,80481,Trail,Food,Campground,Recording Studio,Fondue Restaurant,Farm,Farmers Market,Fast Food Restaurant,Film Studio,Financial or Legal Service
+129,80483,Hotel,Trail,Café,Fishing Spot,Farm,Farmers Market,Fast Food Restaurant,Film Studio,Financial or Legal Service,Fishing Store
+130,80487,American Restaurant,Hotel,Ski Area,Mexican Restaurant,Resort,Brewery,Pizza Place,Pub,Coffee Shop,Trail
+131,80498,Trail,Sandwich Place,Airport,Home Service,Factory,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant,Film Studio
+132,80501,Brewery,Convenience Store,Coffee Shop,Rental Car Location,American Restaurant,Mexican Restaurant,Bank,Chinese Restaurant,Bakery,Pizza Place
+133,80503,Coffee Shop,Grocery Store,Mexican Restaurant,Construction & Landscaping,Park,Pizza Place,Japanese Restaurant,Lake,Airport,Burger Joint
+134,80504,Fast Food Restaurant,Hotel,Gas Station,Convenience Store,Brewery,Sandwich Place,BBQ Joint,Coffee Shop,Park,Fried Chicken Joint
+135,80510,Hotel,Park,Campground,Art Gallery,Fondue Restaurant,Farmers Market,Fast Food Restaurant,Film Studio,Financial or Legal Service,Fishing Spot
+136,80512,Campground,Ski Area,Lake,Trail,Zoo,Flower Shop,Farm,Farmers Market,Fast Food Restaurant,Film Studio
+137,80513,Brewery,Pizza Place,American Restaurant,Breakfast Spot,Home Service,Mexican Restaurant,Grocery Store,Fast Food Restaurant,Marijuana Dispensary,Coffee Shop
+138,80514,Gas Station,Burger Joint,Home Service,Tree,Donut Shop,American Restaurant,Convenience Store,Discount Store,Market,Thai Restaurant
+139,80516,Brewery,Coffee Shop,Baseball Field,Mexican Restaurant,Bank,Football Stadium,Gym / Fitness Center,Bistro,Food Truck,Pub
+140,80517,Hotel,Resort,Motel,Trail,American Restaurant,Tourist Information Center,Coffee Shop,Italian Restaurant,Café,Bed & Breakfast
+141,80521,Pizza Place,Convenience Store,Fast Food Restaurant,Mexican Restaurant,Video Store,Sandwich Place,Mediterranean Restaurant,Gas Station,Coffee Shop,Baseball Field
+142,80524,Brewery,Coffee Shop,American Restaurant,Bar,Café,Candy Store,Sandwich Place,Mexican Restaurant,Pub,Pizza Place
+143,80525,Pizza Place,Mexican Restaurant,Hotel,Sandwich Place,American Restaurant,Gas Station,Convenience Store,Fast Food Restaurant,Coffee Shop,Italian Restaurant
+144,80526,Park,Pizza Place,Sandwich Place,Movie Theater,Bar,Gas Station,Coffee Shop,Gym / Fitness Center,Convenience Store,Donut Shop
+145,80528,Video Store,Harbor / Marina,Park,Gym,Flower Shop,Farm,Farmers Market,Fast Food Restaurant,Film Studio,Financial or Legal Service
+146,80530,Clothing Store,Zoo,Factory,Farm,Farmers Market,Fast Food Restaurant,Film Studio,Financial or Legal Service,Fishing Spot,Fishing Store
+147,80534,Mexican Restaurant,Fast Food Restaurant,Sandwich Place,Home Service,Park,Convenience Store,Pizza Place,Athletics & Sports,Coffee Shop,Grocery Store
+148,80535,Gas Station,Music Venue,Campground,Thrift / Vintage Store,History Museum,Fondue Restaurant,Farmers Market,Fast Food Restaurant,Film Studio,Financial or Legal Service
+149,80537,Fast Food Restaurant,Coffee Shop,Brewery,American Restaurant,Mexican Restaurant,Grocery Store,Pizza Place,Liquor Store,Sandwich Place,Gas Station
+150,80538,Fast Food Restaurant,Pizza Place,Coffee Shop,Grocery Store,Convenience Store,Mexican Restaurant,Pharmacy,Gas Station,Sandwich Place,Brewery
+151,80540,Trail,Bakery,IT Services,American Restaurant,Food,Farm,Farmers Market,Fast Food Restaurant,Film Studio,Financial or Legal Service
+152,80542,Home Service,Pet Store,Construction & Landscaping,BBQ Joint,Zoo,Flower Shop,Farm,Farmers Market,Fast Food Restaurant,Film Studio
+153,80543,Factory,Gym / Fitness Center,Breakfast Spot,Baseball Field,Diner,Ice Cream Shop,Convenience Store,Discount Store,American Restaurant,Flower Shop
+154,80545,Campground,Lake,Resort,Restaurant,Golf Course,Zoo,Fondue Restaurant,Farm,Farmers Market,Fast Food Restaurant
+155,80547,Accessories Store,Brewery,Construction & Landscaping,Spa,Home Service,Zoo,Food,Farmers Market,Fast Food Restaurant,Film Studio
+156,80549,Farm,Lake,Baseball Field,Airport Service,Construction & Landscaping,Tree,Food,Farmers Market,Fast Food Restaurant,Film Studio
+157,80550,Gas Station,Pizza Place,Sandwich Place,Coffee Shop,Donut Shop,Bank,Park,American Restaurant,Fast Food Restaurant,Mexican Restaurant
+158,80601,Mexican Restaurant,Fast Food Restaurant,Brewery,American Restaurant,Pizza Place,Hotel,Coffee Shop,Sandwich Place,Salon / Barbershop,Liquor Store
+159,80602,Construction & Landscaping,Convenience Store,Golf Course,Business Service,Tree,Disc Golf,Home Service,Soccer Field,Airport,Fishing Spot
+160,80603,Airport Food Court,Airport Terminal,School,Gun Range,Zoo,Fondue Restaurant,Farm,Farmers Market,Fast Food Restaurant,Film Studio
+161,80615,Fast Food Restaurant,Rental Service,Video Store,Golf Course,Other Repair Shop,Grocery Store,Basketball Court,Gym,Mexican Restaurant,Sandwich Place
+162,80620,Business Service,Gym / Fitness Center,Gym,Convenience Store,Seafood Restaurant,Film Studio,Coffee Shop,Video Store,Zoo,Farm
+163,80621,Mexican Restaurant,Sandwich Place,Fast Food Restaurant,Golf Course,Pizza Place,Italian Restaurant,Grocery Store,Coffee Shop,Motel,Asian Restaurant
+164,80623,Martial Arts Dojo,Zoo,Factory,Farm,Farmers Market,Fast Food Restaurant,Film Studio,Financial or Legal Service,Fishing Spot,Fishing Store
+165,80631,Coffee Shop,Mexican Restaurant,Pizza Place,Sandwich Place,Italian Restaurant,Fast Food Restaurant,Convenience Store,Chinese Restaurant,Brewery,Steakhouse
+166,80634,Coffee Shop,Fast Food Restaurant,Mexican Restaurant,Sandwich Place,Pizza Place,Cosmetics Shop,Grocery Store,Liquor Store,American Restaurant,Mobile Phone Shop
+167,80640,Intersection,Construction & Landscaping,Gym / Fitness Center,Fast Food Restaurant,Grocery Store,Coffee Shop,Home Service,Sandwich Place,Toy / Game Store,Convenience Store
+168,80642,Sandwich Place,Mexican Restaurant,Gas Station,Fast Food Restaurant,Pizza Place,Coffee Shop,American Restaurant,Hotel,Truck Stop,Zoo
+169,80643,Bar,Motel,Mexican Restaurant,Construction & Landscaping,Lake,Business Service,Food & Drink Shop,Film Studio,Financial or Legal Service,Fishing Spot
+170,80644,Lake,BBQ Joint,Farm,Café,Discount Store,Pizza Place,Hotel,Fondue Restaurant,Farmers Market,Fast Food Restaurant
+171,80645,Mexican Restaurant,Convenience Store,Construction & Landscaping,Seafood Restaurant,Coffee Shop,Sandwich Place,Zoo,Flower Shop,Farm,Farmers Market
+172,80651,Convenience Store,Grocery Store,Gas Station,Sandwich Place,Coffee Shop,American Restaurant,Discount Store,Fishing Store,Flower Shop,Flea Market
+173,80654,Mexican Restaurant,Rest Area,Convenience Store,Hotel,Food,Zoo,Flower Shop,Farm,Farmers Market,Fast Food Restaurant
+174,80701,Fast Food Restaurant,Mexican Restaurant,Convenience Store,Coffee Shop,Sandwich Place,Pizza Place,Pharmacy,Discount Store,Grocery Store,Chinese Restaurant
+175,80720,Sandwich Place,Airport,Mountain,Racetrack,American Restaurant,Zoo,Farmers Market,Fast Food Restaurant,Film Studio,Financial or Legal Service
+176,80723,Fast Food Restaurant,Convenience Store,Pizza Place,History Museum,Discount Store,Truck Stop,Hotel,Zoo,Flower Shop,Farm
+177,80728,Steakhouse,Paper / Office Supplies Store,Fondue Restaurant,Farm,Farmers Market,Fast Food Restaurant,Film Studio,Financial or Legal Service,Fishing Spot,Fishing Store
+178,80729,Construction & Landscaping,Zoo,Food,Farm,Farmers Market,Fast Food Restaurant,Film Studio,Financial or Legal Service,Fishing Spot,Fishing Store
+179,80731,Airport,Zoo,Food,Farm,Farmers Market,Fast Food Restaurant,Film Studio,Financial or Legal Service,Fishing Spot,Fishing Store
+180,80734,Sandwich Place,Auto Garage,Mobile Phone Shop,Hotel,Food,Fondue Restaurant,Farm,Farmers Market,Fast Food Restaurant,Film Studio
+181,80735,Convenience Store,American Restaurant,Zoo,Food,Farm,Farmers Market,Fast Food Restaurant,Film Studio,Financial or Legal Service,Fishing Spot
+182,80737,Tourist Information Center,Zoo,Garden Center,Farm,Farmers Market,Fast Food Restaurant,Film Studio,Financial or Legal Service,Fishing Spot,Fishing Store
+183,80742,Stables,Outdoors & Recreation,American Restaurant,Zoo,Food,Farmers Market,Fast Food Restaurant,Film Studio,Financial or Legal Service,Fishing Spot
+184,80743,Farm,American Restaurant,Zoo,Food,Farmers Market,Fast Food Restaurant,Film Studio,Financial or Legal Service,Fishing Spot,Fishing Store
+185,80747,Border Crossing,Bar,Zoo,Food,Farmers Market,Fast Food Restaurant,Film Studio,Financial or Legal Service,Fishing Spot,Fishing Store
+186,80751,American Restaurant,Fast Food Restaurant,Hotel,Pizza Place,Mexican Restaurant,Bank,Department Store,Chinese Restaurant,Sandwich Place,Discount Store
+187,80758,Convenience Store,Restaurant,American Restaurant,Discount Store,Golf Course,Café,Sandwich Place,Mexican Restaurant,Financial or Legal Service,Film Studio
+188,80759,Sandwich Place,Golf Course,Fast Food Restaurant,Convenience Store,Pizza Place,Discount Store,Hotel,Farm,Farmers Market,Film Studio
+189,80805,Farm,Sporting Goods Shop,Zoo,Food,Farmers Market,Fast Food Restaurant,Film Studio,Financial or Legal Service,Fishing Spot,Fishing Store
+190,80807,Fast Food Restaurant,Hotel,Mexican Restaurant,Convenience Store,Discount Store,Truck Stop,History Museum,Business Service,Transportation Service,Motel
+191,80808,Zoo,Discount Store,Bar,Liquor Store,Scenic Lookout,Sandwich Place,BBQ Joint,Moving Target,Football Stadium,Fishing Store
+192,80809,Gift Shop,National Park,Wine Bar,Theme Park,Mountain,Diner,Park,Forest,Flower Shop,Farmers Market
+193,80810,Park,Recreation Center,Bar,Grocery Store,Pub,Scenic Lookout,Zoo,Flea Market,Farm,Farmers Market
+194,80813,Casino,Hotel,American Restaurant,Food,Thrift / Vintage Store,Tourist Information Center,Mexican Restaurant,Campground,Café,Coffee Shop
+195,80814,Other Great Outdoors,Tourist Information Center,Gastropub,Restaurant,Construction & Landscaping,Liquor Store,Food,Cable Car,Grocery Store,Flea Market
+196,80815,Sandwich Place,Gas Station,Diner,Mobile Phone Shop,Fondue Restaurant,Farm,Farmers Market,Fast Food Restaurant,Film Studio,Financial or Legal Service
+197,80816,Trail,National Park,Summer Camp,Food,Farm,Farmers Market,Fast Food Restaurant,Film Studio,Financial or Legal Service,Fishing Spot
+198,80817,Gas Station,Automotive Shop,Discount Store,Playground,Sandwich Place,Home Service,Video Store,Café,Pizza Place,Liquor Store
+199,80820,Art Museum,Zoo,Factory,Farm,Farmers Market,Fast Food Restaurant,Film Studio,Financial or Legal Service,Fishing Spot,Fishing Store
+200,80821,State / Provincial Park,Campground,Zoo,Food,Farmers Market,Fast Food Restaurant,Film Studio,Financial or Legal Service,Fishing Spot,Fishing Store
+201,80822,Restaurant,Zoo,Fondue Restaurant,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant,Film Studio,Financial or Legal Service,Fishing Spot
+202,80825,American Restaurant,History Museum,Moving Target,Zoo,Food,Farmers Market,Fast Food Restaurant,Film Studio,Financial or Legal Service,Fishing Spot
+203,80827,Locksmith,Trail,Scenic Lookout,Fabric Shop,Factory,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant,Film Studio
+204,80828,Gas Station,Discount Store,Fast Food Restaurant,Hotel,Intersection,Coffee Shop,Pizza Place,Sandwich Place,Motel,Gift Shop
+205,80829,Trail,American Restaurant,Bar,Ice Cream Shop,Dessert Shop,Pizza Place,Mountain,Tea Room,Gourmet Shop,Bed & Breakfast
+206,80831,Home Service,Hardware Store,Night Market,Airport,Gym / Fitness Center,Athletics & Sports,Video Store,Zoo,Flower Shop,Farmers Market
+207,80834,Campground,American Restaurant,Zoo,Food,Farmers Market,Fast Food Restaurant,Film Studio,Financial or Legal Service,Fishing Spot,Fishing Store
+208,80835,Intersection,Diner,Zoo,Food,Farm,Farmers Market,Fast Food Restaurant,Film Studio,Financial or Legal Service,Fishing Spot
+209,80836,Food,River,Bed & Breakfast,Hotel,Motel,Zoo,Farmers Market,Fast Food Restaurant,Film Studio,Financial or Legal Service
+210,80863,Fast Food Restaurant,Pizza Place,Grocery Store,Coffee Shop,Brewery,Sandwich Place,Convenience Store,Mexican Restaurant,Park,Salon / Barbershop
+211,80902,Fast Food Restaurant,Clothing Store,Mobile Phone Shop,Hotel,American Restaurant,Sandwich Place,Asian Restaurant,Pizza Place,Thai Restaurant,Restaurant
+212,80903,Coffee Shop,Bar,Mexican Restaurant,Pizza Place,American Restaurant,Italian Restaurant,Chinese Restaurant,Mediterranean Restaurant,Mobile Phone Shop,Gym
+213,80904,Fast Food Restaurant,Park,Pizza Place,American Restaurant,Italian Restaurant,Gift Shop,Bakery,Trail,Liquor Store,Pub
+214,80905,Intersection,Bar,Coffee Shop,Breakfast Spot,Convenience Store,Gym,Park,Trail,Café,Performing Arts Venue
+215,80906,Coffee Shop,American Restaurant,Mexican Restaurant,Fast Food Restaurant,Italian Restaurant,Breakfast Spot,Supplement Shop,Sandwich Place,Burger Joint,Steakhouse
+216,80907,Fast Food Restaurant,Coffee Shop,Pizza Place,Café,Bar,Chinese Restaurant,Sandwich Place,Brewery,Pet Store,Mexican Restaurant
+217,80908,Home Service,Food,Pet Store,Construction & Landscaping,BBQ Joint,Flower Shop,Farm,Farmers Market,Fast Food Restaurant,Film Studio
+218,80909,Pizza Place,Liquor Store,Coffee Shop,Park,Construction & Landscaping,Sandwich Place,Salon / Barbershop,Athletics & Sports,Tree,Lawyer
+219,80910,Convenience Store,Intersection,Hotel,Korean Restaurant,Sushi Restaurant,Construction & Landscaping,Fried Chicken Joint,Boutique,Baseball Field,Mexican Restaurant
+220,80911,Fast Food Restaurant,Fried Chicken Joint,Discount Store,Chinese Restaurant,American Restaurant,Sporting Goods Shop,Video Game Store,Liquor Store,Coffee Shop,Sandwich Place
+221,80913,Fast Food Restaurant,Deli / Bodega,Pizza Place,Fried Chicken Joint,Gym,Mexican Restaurant,Café,Thrift / Vintage Store,Farm,Caribbean Restaurant
+222,80915,Convenience Store,Liquor Store,Fast Food Restaurant,Coffee Shop,Pizza Place,Sandwich Place,Golf Course,Sushi Restaurant,Café,American Restaurant
+223,80916,Hotel,Convenience Store,Airport Terminal,American Restaurant,Gym,Chinese Restaurant,Salon / Barbershop,Pharmacy,Gas Station,Pizza Place
+224,80917,Pizza Place,Pet Service,Chinese Restaurant,Ice Cream Shop,Café,Convenience Store,Coffee Shop,Flea Market,Farm,Farmers Market
+225,80918,Intersection,Trail,Cosmetics Shop,Business Service,Pharmacy,Sports Bar,Construction & Landscaping,Cuban Restaurant,Music Venue,Sandwich Place
+226,80919,Trail,Pizza Place,Coffee Shop,Fast Food Restaurant,Shopping Mall,Sandwich Place,Video Store,American Restaurant,Salon / Barbershop,Pharmacy
+227,80920,Coffee Shop,Bank,Pizza Place,Park,Convenience Store,Sushi Restaurant,Chinese Restaurant,Martial Arts Dojo,Thai Restaurant,Gym / Fitness Center
+228,80921,Coffee Shop,Pizza Place,Fast Food Restaurant,Mexican Restaurant,American Restaurant,Sandwich Place,Convenience Store,Restaurant,Skating Rink,Department Store
+229,80922,Intersection,Pet Store,Baseball Stadium,Electronics Store,Dive Bar,Zoo,Fondue Restaurant,Farmers Market,Fast Food Restaurant,Film Studio
+230,80924,Dog Run,Trail,Gift Shop,Market,Ski Lodge,Restaurant,Golf Course,Ski Trail,Grocery Store,Hotel
+231,80925,Event Service,Cafeteria,Zoo,Falafel Restaurant,Farmers Market,Fast Food Restaurant,Film Studio,Financial or Legal Service,Fishing Spot,Fishing Store
+232,81001,Gas Station,Fast Food Restaurant,Discount Store,Convenience Store,Pizza Place,Grocery Store,Video Store,Chinese Restaurant,Park,Mexican Restaurant
+233,81003,Deli / Bodega,Bowling Alley,Convenience Store,Pizza Place,Hobby Shop,BBQ Joint,Flower Shop,Farm,Farmers Market,Fast Food Restaurant
+234,81004,Fast Food Restaurant,Discount Store,American Restaurant,Grocery Store,Gas Station,Sandwich Place,Mexican Restaurant,Hotel,Fried Chicken Joint,Pizza Place
+235,81005,Fast Food Restaurant,Mexican Restaurant,Pizza Place,Sandwich Place,Italian Restaurant,Discount Store,Gas Station,Sushi Restaurant,American Restaurant,Bar
+236,81006,Mexican Restaurant,Business Service,Restaurant,Bar,Café,Grocery Store,Zoo,Fast Food Restaurant,Film Studio,Financial or Legal Service
+237,81007,Fast Food Restaurant,Pizza Place,Coffee Shop,Chinese Restaurant,American Restaurant,Home Service,Sandwich Place,Gas Station,Big Box Store,Mexican Restaurant
+238,81008,Fried Chicken Joint,Hospital,Music Store,Furniture / Home Store,Tex-Mex Restaurant,Shoe Store,Drugstore,Pet Store,Clothing Store,Sandwich Place
+239,81020,Trail,Market,Historic Site,Café,Factory,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant,Film Studio
+240,81023,Park,Bar,Home Service,Zoo,Falafel Restaurant,Farmers Market,Fast Food Restaurant,Film Studio,Financial or Legal Service,Fishing Spot
+241,81030,Women's Store,Nightlife Spot,Zoo,Food,Farm,Farmers Market,Fast Food Restaurant,Film Studio,Financial or Legal Service,Fishing Spot
+242,81036,Sandwich Place,Restaurant,Truck Stop,Coffee Shop,Hotel,Zoo,Factory,Falafel Restaurant,Farm,Farmers Market
+243,81040,Campground,Bar,Scenic Lookout,Zoo,Falafel Restaurant,Farmers Market,Fast Food Restaurant,Film Studio,Financial or Legal Service,Fishing Spot
+244,81047,Baseball Field,Convenience Store,Construction & Landscaping,Motel,Zoo,Food & Drink Shop,Fast Food Restaurant,Film Studio,Financial or Legal Service,Fishing Spot
+245,81049,Convenience Store,Zoo,Food,Farm,Farmers Market,Fast Food Restaurant,Film Studio,Financial or Legal Service,Fishing Spot,Fishing Store
+246,81050,Fast Food Restaurant,Gas Station,Mexican Restaurant,Discount Store,Pizza Place,Video Game Store,Diner,Sandwich Place,Park,Breakfast Spot
+247,81052,Fast Food Restaurant,Gas Station,Sandwich Place,Pizza Place,Restaurant,Chinese Restaurant,Hotel,Thai Restaurant,Grocery Store,Big Box Store
+248,81054,Hotel,Food,Fast Food Restaurant,Café,Pizza Place,Convenience Store,Discount Store,American Restaurant,Farmers Market,Film Studio
+249,81055,Grocery Store,American Restaurant,Bakery,BBQ Joint,Frozen Yogurt Shop,Fondue Restaurant,Farmers Market,Furniture / Home Store,Fast Food Restaurant,Film Studio
+250,81057,Baseball Field,Zoo,Food,Farmers Market,Fast Food Restaurant,Film Studio,Financial or Legal Service,Fishing Spot,Fishing Store,Flea Market
+251,81058,Farmers Market,Gift Shop,Zoo,Food,Farm,Fast Food Restaurant,Film Studio,Financial or Legal Service,Fishing Spot,Fishing Store
+252,81063,Restaurant,Café,Discount Store,Grocery Store,Zoo,Fondue Restaurant,Farmers Market,Fast Food Restaurant,Film Studio,Financial or Legal Service
+253,81067,Steakhouse,Food Service,Mexican Restaurant,Café,Grocery Store,Pizza Place,Sandwich Place,Business Service,American Restaurant,Fast Food Restaurant
+254,81069,Home Service,Music Venue,Park,Campground,Construction & Landscaping,Mountain,American Restaurant,Scenic Lookout,Zoo,Farmers Market
+255,81073,Nature Preserve,Convenience Store,Sandwich Place,American Restaurant,Discount Store,Golf Course,Bus Station,Gas Station,Department Store,Fishing Spot
+256,81077,Convenience Store,Zoo,Food,Farm,Farmers Market,Fast Food Restaurant,Film Studio,Financial or Legal Service,Fishing Spot,Fishing Store
+257,81082,Hotel,Fast Food Restaurant,Café,American Restaurant,Gas Station,Pizza Place,Mexican Restaurant,Deli / Bodega,Gym / Fitness Center,Rest Area
+258,81089,Hotel,Grocery Store,Discount Store,Convenience Store,Gas Station,Fast Food Restaurant,Fried Chicken Joint,Mexican Restaurant,Café,Golf Course
+259,81090,Gun Range,Zoo,Fondue Restaurant,Farm,Farmers Market,Fast Food Restaurant,Film Studio,Financial or Legal Service,Fishing Spot,Fishing Store
+260,81091,American Restaurant,Campground,Lake,Zoo,Food,Farmers Market,Fast Food Restaurant,Film Studio,Financial or Legal Service,Fishing Spot
+261,81092,Convenience Store,Zoo,Food,Farm,Farmers Market,Fast Food Restaurant,Film Studio,Financial or Legal Service,Fishing Spot,Fishing Store
+262,81101,Fast Food Restaurant,Pizza Place,Mexican Restaurant,Hotel,Discount Store,Sandwich Place,Coffee Shop,American Restaurant,Grocery Store,Department Store
+263,81120,Gas Station,Discount Store,Train Station,Grocery Store,Motel,French Restaurant,Forest,Fruit & Vegetable Store,Farmers Market,Fast Food Restaurant
+264,81121,Bar,Convenience Store,Zoo,Food,Farmers Market,Fast Food Restaurant,Film Studio,Financial or Legal Service,Fishing Spot,Fishing Store
+265,81122,Lake,Trail,Resort,Mexican Restaurant,Gym / Fitness Center,Food,Other Great Outdoors,Flower Shop,Farm,Farmers Market
+266,81123,Café,Convenience Store,Zoo,Fondue Restaurant,Farm,Farmers Market,Fast Food Restaurant,Film Studio,Financial or Legal Service,Fishing Spot
+267,81125,Discount Store,Mexican Restaurant,Convenience Store,Construction & Landscaping,Business Service,Zoo,Food,Fast Food Restaurant,Film Studio,Financial or Legal Service
+268,81130,Art Gallery,Pet Service,Restaurant,Fishing Spot,Outdoor Supply Store,Food,Zoo,Farm,Farmers Market,Fast Food Restaurant
+269,81132,Hotel,Brewery,Sandwich Place,Restaurant,American Restaurant,Pharmacy,Home Service,Jewelry Store,Gas Station,Mexican Restaurant
+270,81137,Casino,Bank,Mexican Restaurant,Fast Food Restaurant,Indian Restaurant,Coffee Shop,Convenience Store,Café,Grocery Store,Flower Shop
+271,81140,Construction & Landscaping,Carpet Store,Fondue Restaurant,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant,Film Studio,Financial or Legal Service,Fishing Spot
+272,81143,Hotel Pool,Trail,Zoo,Fondue Restaurant,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant,Film Studio,Financial or Legal Service
+273,81144,Fast Food Restaurant,Grocery Store,Gas Station,American Restaurant,Mexican Restaurant,Chinese Restaurant,Pizza Place,Sandwich Place,Golf Course,Hotel
+274,81146,State / Provincial Park,Campground,Zoo,Food,Farmers Market,Fast Food Restaurant,Film Studio,Financial or Legal Service,Fishing Spot,Fishing Store
+275,81147,Coffee Shop,Mexican Restaurant,Convenience Store,Brewery,American Restaurant,Breakfast Spot,Hotel,Hot Spring,Fast Food Restaurant,Restaurant
+276,81149,Gas Station,Bakery,Mexican Restaurant,History Museum,Convenience Store,Food,Fast Food Restaurant,Film Studio,Financial or Legal Service,Fishing Spot
+277,81152,Sculpture Garden,Zoo,Fabric Shop,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant,Film Studio,Financial or Legal Service,Fishing Spot
+278,81154,Grocery Store,Bed & Breakfast,Reservoir,Restaurant,Discount Store,Hotel,American Restaurant,RV Park,Burger Joint,Mexican Restaurant
+279,81201,Café,Gas Station,Pizza Place,American Restaurant,Coffee Shop,Hotel,Fast Food Restaurant,Mexican Restaurant,Bed & Breakfast,BBQ Joint
+280,81210,Lake,Hotel,Harbor / Marina,Campground,American Restaurant,Other Great Outdoors,Fondue Restaurant,Farmers Market,Fast Food Restaurant,Film Studio
+281,81211,Gas Station,American Restaurant,Campground,Burger Joint,Sandwich Place,Coffee Shop,Mountain,Steakhouse,Breakfast Spot,Sporting Goods Shop
+282,81212,Fast Food Restaurant,Burger Joint,Hotel,Sandwich Place,Rafting,Pizza Place,American Restaurant,Mexican Restaurant,Theme Park Ride / Attraction,Coffee Shop
+283,81223,Food,Farm,Campground,Construction & Landscaping,Trail,Fondue Restaurant,Farmers Market,Fast Food Restaurant,Film Studio,Financial or Legal Service
+284,81224,Hotel,American Restaurant,Bar,Coffee Shop,Sporting Goods Shop,Pizza Place,Burrito Place,Restaurant,Ski Area,Burger Joint
+285,81225,Hotel,American Restaurant,Ski Area,Bar,Park,Gas Station,Trail,Ski Trail,BBQ Joint,Restaurant
+286,81226,Automotive Shop,Shop & Service,Coffee Shop,Skydiving Drop Zone,Fast Food Restaurant,Diner,Restaurant,Gas Station,Brewery,Japanese Restaurant
+287,81230,Fast Food Restaurant,Hotel,Coffee Shop,Mexican Restaurant,Grocery Store,Breakfast Spot,Bank,Chinese Restaurant,Sandwich Place,Campground
+288,81235,Brewery,Restaurant,Coffee Shop,Pizza Place,Gift Shop,Southern / Soul Food Restaurant,American Restaurant,Bakery,Gastropub,Ice Cream Shop
+289,81236,Convenience Store,Scenic Lookout,Resort,Campground,Restaurant,Hot Spring,Hotel,Film Studio,Fishing Spot,Financial or Legal Service
+290,81240,Café,Sandwich Place,Breakfast Spot,Tailor Shop,Business Service,Hot Spring,Farm,Fried Chicken Joint,Farmers Market,Fast Food Restaurant
+291,81243,Hotel,Fabric Shop,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant,Film Studio,Financial or Legal Service,Fishing Spot,Fishing Store
+292,81252,Park,Construction & Landscaping,Discount Store,American Restaurant,Coffee Shop,Sandwich Place,Zoo,Fondue Restaurant,Farmers Market,Fast Food Restaurant
+293,81301,Hotel,Mexican Restaurant,Pizza Place,Coffee Shop,Brewery,Café,American Restaurant,Bar,Sandwich Place,Breakfast Spot
+294,81303,Construction & Landscaping,Discount Store,Dive Bar,Gas Station,Breakfast Spot,Sandwich Place,Hardware Store,Café,Convenience Store,Flea Market
+295,81321,Fast Food Restaurant,American Restaurant,Hotel,Coffee Shop,Mexican Restaurant,Sandwich Place,Construction & Landscaping,Gym,Sushi Restaurant,Tourist Information Center
+296,81323,Brewery,Discount Store,Burger Joint,History Museum,American Restaurant,Liquor Store,Motorsports Shop,Coffee Shop,Food,Film Studio
+297,81324,Gas Station,Airport Terminal,Café,Farm,Food Court,Breakfast Spot,Frozen Yogurt Shop,Fondue Restaurant,Fast Food Restaurant,Film Studio
+298,81326,Café,Zoo,Food,Farmers Market,Fast Food Restaurant,Film Studio,Financial or Legal Service,Fishing Spot,Fishing Store,Flea Market
+299,81328,State / Provincial Park,Organic Grocery,Brewery,Bakery,Café,American Restaurant,Bed & Breakfast,Grocery Store,Financial or Legal Service,Fishing Spot
+300,81401,Fast Food Restaurant,Hotel,Coffee Shop,Mexican Restaurant,Pizza Place,Brewery,American Restaurant,Ice Cream Shop,Sandwich Place,Golf Course
+301,81410,Motorcycle Shop,Zoo,Food & Drink Shop,Farmers Market,Fast Food Restaurant,Film Studio,Financial or Legal Service,Fishing Spot,Fishing Store,Flea Market
+302,81413,Construction & Landscaping,Sandwich Place,History Museum,Park,Resort,Ice Cream Shop,Pizza Place,Discount Store,American Restaurant,Hotel
+303,81415,State / Provincial Park,Harbor / Marina,Zoo,Fondue Restaurant,Farm,Farmers Market,Fast Food Restaurant,Film Studio,Financial or Legal Service,Fishing Spot
+304,81416,Fast Food Restaurant,Gas Station,Grocery Store,Italian Restaurant,Discount Store,Sandwich Place,Pizza Place,Taco Place,Hotel,Big Box Store
+305,81418,Gas Station,Dessert Shop,Lake,Antique Shop,Food & Drink Shop,Farmers Market,Fast Food Restaurant,Film Studio,Financial or Legal Service,Fishing Spot
+306,81419,Grocery Store,Gas Station,Mexican Restaurant,Organic Grocery,Coffee Shop,Zoo,Farmers Market,Fast Food Restaurant,Film Studio,Financial or Legal Service
+307,81422,Heliport,Zoo,Fondue Restaurant,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant,Film Studio,Financial or Legal Service,Fishing Spot
+308,81423,Deli / Bodega,Stables,Motel,Playground,Zoo,Food,Farmers Market,Fast Food Restaurant,Film Studio,Financial or Legal Service
+309,81425,Construction & Landscaping,Furniture / Home Store,Farmers Market,Park,Wine Shop,Hunting Supply,Discount Store,Zoo,Fondue Restaurant,Fast Food Restaurant
+310,81427,Hotel,Trail,Dessert Shop,Pub,Brewery,American Restaurant,Italian Restaurant,Market,Scenic Lookout,Burger Joint
+311,81428,Brewery,Gourmet Shop,Park,Coffee Shop,Food,Hotel,Motel,Sandwich Place,Farmers Market,Fast Food Restaurant
+312,81432,Brewery,American Restaurant,Liquor Store,Asian Restaurant,Taco Place,Food Truck,Hot Spring,Hotel,Fishing Store,Thai Restaurant
+313,81433,Trail,Campground,History Museum,Mountain,American Restaurant,Fondue Restaurant,Farm,Farmers Market,Fast Food Restaurant,Film Studio
+314,81434,Moving Target,Vacation Rental,Zoo,Fondue Restaurant,Farm,Farmers Market,Fast Food Restaurant,Film Studio,Financial or Legal Service,Fishing Spot
+315,81435,Hotel,Ski Area,Pizza Place,New American Restaurant,Resort,Coffee Shop,Ski Chairlift,Marijuana Dispensary,Grocery Store,Gastropub
+316,81501,Fast Food Restaurant,Pizza Place,Coffee Shop,Mexican Restaurant,Dessert Shop,Shipping Store,Sandwich Place,Liquor Store,Park,Music Venue
+317,81503,Mexican Restaurant,Coffee Shop,Pizza Place,Hotel,Grocery Store,Salon / Barbershop,Pub,Train Station,Fast Food Restaurant,Diner
+318,81504,Gun Shop,Other Repair Shop,ATM,Construction & Landscaping,Paper / Office Supplies Store,Mexican Restaurant,Transportation Service,Pharmacy,Fast Food Restaurant,Pizza Place
+319,81505,Grocery Store,Clothing Store,Mexican Restaurant,Furniture / Home Store,Coffee Shop,Restaurant,Movie Theater,Lingerie Store,Fast Food Restaurant,Cosmetics Shop
+320,81506,Hotel,Italian Restaurant,Motel,Liquor Store,Fast Food Restaurant,Coffee Shop,American Restaurant,Diner,Sushi Restaurant,Gas Station
+321,81520,Pizza Place,Fast Food Restaurant,Mexican Restaurant,Fried Chicken Joint,Sandwich Place,Convenience Store,Business Service,Grocery Store,Bank,Auto Garage
+322,81521,Fast Food Restaurant,Pizza Place,Mexican Restaurant,Sandwich Place,Café,Brewery,Coffee Shop,Gas Station,Golf Course,Taco Place
+323,81524,Laundry Service,Stables,Park,Roof Deck,Home Service,Zoo,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant
+324,81526,Winery,Brewery,Distillery,Park,Bar,Trail,Café,Pizza Place,Sandwich Place,Hotel
+325,81601,Coffee Shop,Pizza Place,Theme Park,Hotel,Hot Spring,Brewery,Fast Food Restaurant,American Restaurant,Trail,Burger Joint
+326,81611,American Restaurant,Hotel,Ski Area,Italian Restaurant,Trail,Sandwich Place,Park,Ski Lodge,Resort,Restaurant
+327,81615,Hotel,Resort,Restaurant,Ski Area,Bar,Pizza Place,American Restaurant,Coffee Shop,Grocery Store,Trail
+328,81620,Hotel,Coffee Shop,Mexican Restaurant,Pizza Place,Residential Building (Apartment / Condo),Resort,Liquor Store,French Restaurant,Italian Restaurant,Spa
+329,81621,Convenience Store,Italian Restaurant,Market,Restaurant,Pizza Place,Sandwich Place,Coffee Shop,Clothing Store,Café,Sporting Goods Shop
+330,81623,Bar,Coffee Shop,Sandwich Place,Pizza Place,Trail,Mexican Restaurant,Campground,Gym / Fitness Center,Grocery Store,Park
+331,81624,Food,Bus Station,Pet Store,Hunting Supply,Farm,Farmers Market,Fast Food Restaurant,Film Studio,Financial or Legal Service,Fishing Spot
+332,81625,Gas Station,Fast Food Restaurant,Hotel,Coffee Shop,Grocery Store,Pharmacy,Sandwich Place,Bank,Pizza Place,Food
+333,81630,Gas Station,River,Smoke Shop,Mountain,Sandwich Place,Zoo,Flower Shop,Farm,Farmers Market,Fast Food Restaurant
+334,81631,Coffee Shop,Gas Station,Golf Course,Brewery,Fast Food Restaurant,Hotel,Trail,Sandwich Place,Rest Area,BBQ Joint
+335,81632,American Restaurant,Italian Restaurant,Pizza Place,Golf Course,Restaurant,Burger Joint,Grocery Store,Mexican Restaurant,Sushi Restaurant,Bookstore
+336,81635,Mountain,Zoo,Food & Drink Shop,Farmers Market,Fast Food Restaurant,Film Studio,Financial or Legal Service,Fishing Spot,Fishing Store,Flea Market
+337,81637,Rental Car Location,Gas Station,Airport Terminal,Travel & Transport,Bar,Scenic Lookout,Discount Store,River,Trail,Airport Service
+338,81639,Rental Car Location,Airport,American Restaurant,Gas Station,Pizza Place,Construction & Landscaping,Fondue Restaurant,Farm,Farmers Market,Fast Food Restaurant
+339,81641,Gas Station,Pizza Place,Italian Restaurant,Dentist's Office,Department Store,Farmers Market,Fast Food Restaurant,Film Studio,Financial or Legal Service,Fishing Spot
+340,81645,Trail,Garden Center,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant,Film Studio,Financial or Legal Service,Fishing Spot,Fishing Store
+341,81647,Hotel,Gas Station,Motel,Café,Lake,Grocery Store,American Restaurant,Pizza Place,Bar,Chinese Restaurant
+342,81648,Pizza Place,Discount Store,Sandwich Place,Coffee Shop,Gas Station,Hotel,Convenience Store,Fishing Store,Fishing Spot,Zoo
+343,81650,Gas Station,Chinese Restaurant,Fried Chicken Joint,Golf Course,Food & Drink Shop,Grocery Store,Furniture / Home Store,Wings Joint,Dentist's Office,Film Studio
+344,81652,Auto Workshop,Candy Store,Clothing Store,Home Service,Flower Shop,Farm,Farmers Market,Fast Food Restaurant,Film Studio,Financial or Legal Service
+345,81654,Breakfast Spot,Art Gallery,Theater,Mountain,Lake,Fast Food Restaurant,Film Studio,Financial or Legal Service,Fishing Spot,Fishing Store
+346,81657,Ski Area,American Restaurant,Hotel,Resort,New American Restaurant,Pizza Place,Spa,Coffee Shop,Ski Lodge,Plaza
